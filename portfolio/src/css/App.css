@@ -134,7 +134,7 @@
 }
 
 .card-front {
-    background-image: url('/home/breuleux/W-WEB-502-STG-2-1-Portfolio-cedric.breuleux/src/css/image.png');
+    background-image: url('image.png');
     background-size: cover;
     background-position: center center;
     display: flex;
